@@ -1,4 +1,11 @@
 # PayPal-Payment-Gateway-in-PHP
+
+
+![integrate-payment-gateway-paypal-payment-woocommerce-checkout](https://user-images.githubusercontent.com/20369800/92320831-2ce60000-f042-11ea-9393-1c53c815adef.jpeg)
+
+
+
+
 What is Payment Gateway ?
 Payment Gateway is a bridge between the credit card holder and Credit card Company to establish a secure connection between them to interchange the data.
 
